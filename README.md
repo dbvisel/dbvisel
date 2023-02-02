@@ -2,4 +2,4 @@
 
 Hi! I should put something here!
 
- <a href="https://assemblages/@dbvisel" rel="me">Mastodon</a>
+ <a href="https://assemblag.es/@dbvisel" rel="me">Mastodon</a>
